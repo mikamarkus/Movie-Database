@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="windows_projectDataSet" targetNamespace="http://tempuri.org/windows_projectDataSet.xsd" xmlns:mstns="http://tempuri.org/windows_projectDataSet.xsd" xmlns="http://tempuri.org/windows_projectDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="windows_projectConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="windows_projectConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.movie_database.Properties.Settings.GlobalReference.Default.windows_projectConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="actorsTableAdapter" GeneratorDataComponentClassName="actorsTableAdapter" Name="actors" UserDataComponentName="actorsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="windows_projectConnectionString (Settings)" DbObjectName="windows_project.actors" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `fullname` FROM `actors`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="windows_projectDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="windows_projectDataSet" msprop:Generator_UserDSName="windows_projectDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="actors" msprop:Generator_TableClassName="actorsDataTable" msprop:Generator_TableVarName="tableactors" msprop:Generator_TablePropName="actors" msprop:Generator_RowDeletingName="actorsRowDeleting" msprop:Generator_RowChangingName="actorsRowChanging" msprop:Generator_RowEvHandlerName="actorsRowChangeEventHandler" msprop:Generator_RowDeletedName="actorsRowDeleted" msprop:Generator_UserTableName="actors" msprop:Generator_RowChangedName="actorsRowChanged" msprop:Generator_RowEvArgName="actorsRowChangeEvent" msprop:Generator_RowClassName="actorsRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

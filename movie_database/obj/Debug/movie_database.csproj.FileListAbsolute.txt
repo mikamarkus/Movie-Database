@@ -1,0 +1,62 @@
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\movie_database.exe.config
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\movie_database.exe
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\movie_database.pdb
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\MetroFramework.Design.dll
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\MetroFramework.dll
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\MetroFramework.Fonts.dll
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.csprojResolveAssemblyReference.cache
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.Movies.resources
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.Properties.Resources.resources
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.csproj.GenerateResource.Cache
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.csproj.CoreCompileInputs.cache
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.exe
+Z:\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.pdb
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\movie_database.exe.config
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\movie_database.exe
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\movie_database.pdb
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\MetroFramework.dll
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\MySql.Data.xml
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.csprojResolveAssemblyReference.cache
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.Movies.resources
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.Properties.Resources.resources
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.csproj.GenerateResource.Cache
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.exe
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.pdb
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\MySql.Data.dll
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.AddMovie.resources
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\EntityFramework.dll
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\EntityFramework.xml
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.EditActors.resources
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.AddGenre.resources
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.AddProducer.resources
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.AddActor.resources
+C:\Users\Mika\Documents\Savonia\3. vuosi\Windows ja Linux -ohjelmointi\movie_database\movie_database\obj\Debug\movie_database.Help.resources
+C:\temp\movie_database\movie_database\bin\Debug\movie_database.exe.config
+C:\temp\movie_database\movie_database\bin\Debug\movie_database.exe
+C:\temp\movie_database\movie_database\bin\Debug\movie_database.pdb
+C:\temp\movie_database\movie_database\bin\Debug\EntityFramework.dll
+C:\temp\movie_database\movie_database\bin\Debug\EntityFramework.SqlServer.dll
+C:\temp\movie_database\movie_database\bin\Debug\MetroFramework.Design.dll
+C:\temp\movie_database\movie_database\bin\Debug\MetroFramework.dll
+C:\temp\movie_database\movie_database\bin\Debug\MetroFramework.Fonts.dll
+C:\temp\movie_database\movie_database\bin\Debug\EntityFramework.xml
+C:\temp\movie_database\movie_database\bin\Debug\EntityFramework.SqlServer.xml
+C:\temp\movie_database\movie_database\bin\Debug\MySql.Data.xml
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.csprojResolveAssemblyReference.cache
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.AddActor.resources
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.AddGenre.resources
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.AddMovie.resources
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.AddProducer.resources
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.EditActors.resources
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.Help.resources
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.Movies.resources
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.Properties.Resources.resources
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.csproj.GenerateResource.Cache
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.csproj.CoreCompileInputs.cache
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.exe
+C:\temp\movie_database\movie_database\obj\Debug\movie_database.pdb
